@@ -12,4 +12,10 @@ public class TestClass {
 
     }
 
+    public void doSomething3()
+    {
+
+    }
+
+
 }
