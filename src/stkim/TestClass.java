@@ -22,5 +22,12 @@ public class TestClass {
 
     }
 
+    public void confliction()
+    {
+        //lksdjflkasdjflaksdfjlaksdf
+        //lksdjflkasdjflaksdfjlaksdf
+        //lksdjflkasdjflaksdfjlaksdf
+    }
+
 
 }
