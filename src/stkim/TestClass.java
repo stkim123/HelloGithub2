@@ -19,6 +19,14 @@ public class TestClass {
 
     public void doSomethingXZXXXXXXXXXXX()
     {
+        ////////////////////////////////////////
+        /// conflict
+        ////////////////////////////////////////
+
+        for (int i = 0 ; i < 100 ; i++)
+        {
+            System.out.println("XXXXXXXXXXXXXXXXXX");
+        }
 
     }
 
