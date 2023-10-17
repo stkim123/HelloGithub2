@@ -10,4 +10,9 @@ public class Main {
     {
         System.out.println("111111111111111111111111111");
     }
+
+    public void do222222222()
+    {
+        System.out.println("2222222222222222222222222");
+    }
 }
