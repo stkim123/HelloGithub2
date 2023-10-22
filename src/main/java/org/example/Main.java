@@ -15,4 +15,10 @@ public class Main {
     {
         System.out.println("2222222222222222222222222");
     }
+
+
+    public void do4444444444444444()
+    {
+        System.out.println("4444444444444444");
+    }
 }
