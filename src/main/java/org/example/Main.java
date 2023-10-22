@@ -16,6 +16,11 @@ public class Main {
         System.out.println("2222222222222222222222222");
     }
 
+    public void do3333333333()
+    {
+        System.out.println("33333333333333");
+    }
+
 
     public void do4444444444444444()
     {
