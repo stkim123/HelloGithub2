@@ -25,4 +25,10 @@ public class Main {
     {
         System.out.println("4444444444444444");
     }
+
+    public void do666666666666666666666()
+    {
+        System.out.println("666666666666666666666");
+    }
+
 }
