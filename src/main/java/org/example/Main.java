@@ -31,8 +31,6 @@ public class Main {
         System.out.println("55555555555555555");
     }
 
-
-
     public void do666666666666666666666()
     {
         System.out.println("666666666666666666666");
